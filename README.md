@@ -1,3 +1,5 @@
+# PolyHx 2023 Winner in the category: Best use of NLP by Cohere
+
 # L'humain et la technologie: pallier sur l'appartenance et l'amour de l'échelle de Maslow
 <img src="static/website-demo.png" alt="haiku website">
 
